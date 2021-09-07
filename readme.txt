@@ -1,0 +1,4 @@
+- 12V Battery to guitar effects power supply
+- 9 independent outputs, 500mA each
+- 9V output
+- Hammond 1590B enclosure http://www.hammondmfg.com/pdf/1590B.pdf
